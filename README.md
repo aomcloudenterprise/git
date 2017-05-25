@@ -24,7 +24,7 @@ $ cd git
 $ now
 ```
 
-> Example: `https://now-examples-git.now.sh`
+> Example: https://now-examples-git.now.sh
 
 ## License
 
